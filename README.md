@@ -1,5 +1,5 @@
 # 💫 About Me:
-17yo Programmer based in Poland
+A 17yo programmer from Poland with a passion for software development.
 
 
 # 💻 Tech Stack:
