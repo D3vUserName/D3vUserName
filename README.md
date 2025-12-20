@@ -8,6 +8,22 @@ A 17yo programmer from Poland with a passion for software development.
 ---
 [![](https://visitcount.itsvg.in/api?id=420username&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🔧 Umiejętności:
+**JavaScript**  
+![JavaScript Progress](https://progress-bar.dev/85/?title=JavaScript&width=300&color=brightgreen)
+
+**Python**  
+![Python Progress](https://progress-bar.dev/65/?title=Python&width=300&color=blue)
+
+**C#**  
+![C# Progress](https://progress-bar.dev/70/?title=C%23&width=300&color=blueviolet)
+
+**HTML/CSS**  
+![HTML/CSS Progress](https://progress-bar.dev/90/?title=HTML/CSS&width=300&color=orange)
+
+**Node.js**  
+![Node.js Progress](https://progress-bar.dev/75/?title=Node.js&width=300&color=green)
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/420username) 
 
