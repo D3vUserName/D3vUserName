@@ -1,5 +1,6 @@
 # 💫 About Me:
 A 17yo programmer from Poland with a passion for software development.
+![AboutMe](https://img.shields.io/badge/A%2017yo%20programmer%20from%20Poland%20with%20a%20passion%20for%20software%20development.-8A2BE2)
 
 
 # 💻 Tech Stack:
