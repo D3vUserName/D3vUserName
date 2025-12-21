@@ -1,11 +1,5 @@
 # 💫 About Me:
-![Age](https://img.shields.io/badge/Age-17%20years-8A2BE2)
-![Location](https://img.shields.io/badge/Location-Poland-8A2BE2)
-![Passion](https://img.shields.io/badge/Passionate%20about-Software%20Dev-8A2BE2)
-![Interests](https://img.shields.io/badge/Loves-Exploring%20tech%20and%20building%20projects-8A2BE2)
-![Skills](https://img.shields.io/badge/Skills-Algorithms%20%26%20Fullstack-8A2BE2)
-![Mindset](https://img.shields.io/badge/Always%20curious-Always%20improving-8A2BE2)
-
+![AboutMe](https://img.shields.io/badge/A%2017yo%20programmer%20from%20Poland%20with%20a%20passion%20for%20software%20development.-8A2BE2)
 
 
 
