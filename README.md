@@ -1,5 +1,6 @@
 # 💫 About Me:
-![AboutMe](https://img.shields.io/badge/A%2017yo%20programmer%20from%20Poland%20with%20a%20passion%20for%20software%20development.-8A2BE2)
+![AboutMe](https://img.shields.io/badge/17yo%20programmer%20from%20Poland%20with%20a%20deep%20passion%20for%20software%20development.%20I%20love%20exploring%20new%20technologies,%20building%20projects%20from%20scratch,%20and%20learning%20everything%20about%20coding,%20from%20algorithms%20to%20full-stack%20development.%20Always%20curious,%20always%20improving!-8A2BE2)
+
 
 
 # 💻 Tech Stack:
